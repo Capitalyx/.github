@@ -1,6 +1,6 @@
 # 🌍 Capitalyx Tycoon
 
-Bienvenue sur le dépôt officiel du serveur **Capitalyx Tycoon** !  
+Bienvenue sur le dépôt officiel du serveur FiveM **Capitalyx Tycoon** !  
 Un serveur **Tycoon en développement** où les joueurs peuvent incarner différents métiers pour gagner de l’argent, monter en XP et débloquer du contenu exclusif.  
 
 ---
