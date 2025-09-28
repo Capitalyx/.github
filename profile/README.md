@@ -22,11 +22,14 @@ Ton objectif : **faire grossir ton empire, accumuler de l’argent, XP et niveau
 ## 🛠️ Développement
 
 Ce dépôt regroupe le code et les ressources liées au serveur **Capitalyx Tycoon**.  
-Nous sommes actuellement **2 développeurs** à travailler dessus :  
+Nous sommes actuellement **6 développeurs** à travailler dessus :  
 
 - [Yazouv](https://github.com/Yazouv) → Backend & scripts FiveM, gestion de projet, optimisation
-- [Arkyan](https://github.com/Arkyan) → Frontend, UI, wiki & Développeur second
+- [Arkyan](https://github.com/Arkyan) → Frontend, UI, Wiki & Développeur second
 - [Ethandudu](https://github.com/ethandudu) → Gestion économie serveur
+- [Ichillow](https://github.com/Ichillow) → Backend & scripts FiveM
+- [SmashBalloon](https://github.com//SmasBalloon) → Développeur Wiki
+- [GamoTune](https://github.com//GamoTune) → Backend & scripts FiveM
 
 ### Technologies principales :
 - Lua (scripts FiveM)  
