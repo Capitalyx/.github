@@ -25,11 +25,11 @@ Ce dépôt regroupe le code et les ressources liées au serveur **Capitalyx Tyco
 Nous sommes actuellement **6 développeurs** à travailler dessus :  
 
 - [Yazouv](https://github.com/Yazouv) → Backend & scripts FiveM, gestion de projet, optimisation
-- [Arkyan](https://github.com/Arkyan) → Frontend, UI, Wiki & Développeur second
-- [Ethandudu](https://github.com/ethandudu) → Gestion économie serveur
 - [Ichillow](https://github.com/Ichillow) → Backend & scripts FiveM
-- [SmashBalloon](https://github.com//SmasBalloon) → Développeur Wiki
 - [GamoTune](https://github.com//GamoTune) → Backend & scripts FiveM
+- [Arkyan](https://github.com/Arkyan) → Frontend, UI, Wiki & Développeur second
+- [SmashBalloon](https://github.com//SmasBalloon) → Développeur Wiki
+- [Ethandudu](https://github.com/ethandudu) → Gestion économie serveur
 
 ### Technologies principales :
 - Lua (scripts FiveM)  
