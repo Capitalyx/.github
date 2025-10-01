@@ -48,17 +48,6 @@ Nous sommes actuellement **6 développeurs** à travailler dessus :
 
 ---
 
-## 🤝 Contribution
-
-Les contributions sont les bienvenues !
-Merci de respecter les conventions suivantes :
-
-* Utilisez des **branches par feature** (`feature/nom-feature`)
-* Faites une **Pull Request** claire et documentée
-* Documentez vos changements dans `docs/` si nécessaire
-
----
-
 ## 📜 Licence
 
 Ce projet est en cours de développement.
